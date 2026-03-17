@@ -1,0 +1,11 @@
+*.iso
+*.E01
+*.dd
+*.raw
+*.img
+*.zip
+*.7z
+*.pcap
+*.mem
+evidence/
+tools/
